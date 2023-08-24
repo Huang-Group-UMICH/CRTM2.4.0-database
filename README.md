@@ -21,6 +21,7 @@ This package is to update CRTM2.4.0 cloud database by including new ice cloud sc
     Again noting the leading . . This sets the required environment variables to identify various paths needed to build. CRTM_ROOT, CRTM_SOURCE_ROOT, etc.
 
     Configuration Step 3
+   
     cd src/
     cd Build/
     make clean  
