@@ -1,4 +1,4 @@
-This package is to update CRTM2.4.0 cloud database by including new ice cloud scattering optics provided by Ping Yang’s group on Feb.13, 2023.
+This package is to update CRTM2.4.0 cloud database with new ice cloud scattering optics provided by Ping Yang’s group on Feb.13, 2023.
 
 1, Download crtm-master.zip. then unzip crtm-master.zip, and delete crtm-master.zip after unzipping, cd crtm-master. Or git clone git@github.com:JCSDA/crtm.git.
 
