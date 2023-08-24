@@ -1,10 +1,12 @@
 This package is to update CRTM2.4.0 cloud database by including new ice cloud scattering optics provided by Ping Yang’s group on Feb.13, 2023.
 
 1, Download crtm-master.zip. then unzip crtm-master.zip, and delete crtm-master.zip after unzipping, cd crtm-master. Or git clone git@github.com:JCSDA/crtm.git.
-2, ./Get_CRTM_Binary_Files.sh, then a folder fix will be obtained.
-4, cd fix/CloudCoeff/netCDF/, wget -N https://github.com/Huang-Group-UMICH/CRTM2.4.0-modified_with_new_icecloud/raw/main/CloudCoeff.nc4.
 
-5. The other steps are the same as the original CRTM2.4.0, as following:
+2, ./Get_CRTM_Binary_Files.sh, then a folder fix will be obtained.
+
+3, cd fix/CloudCoeff/netCDF/, wget -N https://github.com/Huang-Group-UMICH/CRTM2.4.0-modified_with_new_icecloud/raw/main/CloudCoeff.nc4.
+
+4. The other steps are the same as the original CRTM2.4.0, as following:
    
    Configuration Step 1
 
