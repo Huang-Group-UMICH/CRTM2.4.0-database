@@ -4,9 +4,9 @@ This package is to update CRTM2.4.0 cloud database by including new ice cloud sc
 
 2, ./Get_CRTM_Binary_Files.sh, then a folder fix will be obtained.
 
-3, cd fix/CloudCoeff/netCDF/, wget -N https://github.com/Huang-Group-UMICH/CRTM2.4.0-modified_with_new_icecloud/raw/main/CloudCoeff.nc4.
+3, cd fix/CloudCoeff/netCDF/, wget -N https://github.com/Huang-Group-UMICH/CRTM2.4.0-modified_with_new_icecloud/raw/main/CloudCoeff.nc4. By doing this, the old CloudCoeff.nc4 is replaced with new CloudCoeff.nc4.
 
-4. The other steps are the same as the original CRTM2.4.0, as following:
+4. The other steps are the same as the original CRTM2.4.0, as follows:
    
    Configuration Step 1
 
