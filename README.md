@@ -1,5 +1,7 @@
 This package is originally from https://github.com/JCSDA/crtm/tree/master, but it modifies Get_CRTM_Binary_Files.sh to update fix/CloudCoeff/netCDF/CloudCoeff.nc4 with new CloudCoeff.nc4 which includes new ice cloud scattering optics provided by Ping Yang’s group on Feb.13, 2023.
 
+How to use it?
+
 1, Download crtm-master-modified.tgz
 
 2, tar -xvzf crtm-master-modified.tgz
