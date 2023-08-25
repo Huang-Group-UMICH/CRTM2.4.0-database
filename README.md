@@ -6,6 +6,6 @@ This package is originally from https://github.com/JCSDA/crtm/tree/master, but i
 
 3, cd crtm-master-modified/
 
-4. The following steps are the same as the original CRTM2.4.0 (https://github.com/JCSDA/crtm/blob/master/README.md).
+4, The following steps are the same as the original CRTM2.4.0 (https://github.com/JCSDA/crtm/blob/master/README.md).
    
 Note: To use the new cloud database, fix/CloudCoeff/netCDF/CloudCoeff.nc4, the user should set Coeff_Format = 'netCDF' for example in src/Build/libsrc/test/check_crtm.F90.
